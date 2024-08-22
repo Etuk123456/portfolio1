@@ -23,22 +23,25 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 ![image](assets/car.jpg)
+
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+
 ![image](assets/agro.jpg)
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+
+On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+
 ![image](assets/car2.jpeg)
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+
+Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
