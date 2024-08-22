@@ -37,12 +37,14 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 <!--Section 3: This section is optional. You can replace this section with a list of your core skills-->
 ## MY COURSES
 **Performance Analysis**
+![image](assets/418159415_10224996118350400_1790389732999386325_n.jpg)
 Advanced Data Analytics: Mastering the Craft with Portfolio Project using Excel. Master data analytics by solving real-world sales problems using MS Excel 2021, learn core dashboard design and presentation skills and create your portfolio project. This course is designed for beginners and professional data analyst.
-[Read More](assets/418159415_10224996118350400_1790389732999386325_n.jpg)
+[Read More](https://selar.co/salesdata)
 
 **Attrition Analysis**
+![image](assets/417528845_10224984773746792_6587086704764480413_n.jpg)
 In this course, you will learn how to analyze HR and employee data, including demographics, job roles, performance metrics, and workplace satisfaction, to identify the underlying causes and predictors of employee attrition.
-[Read More](assets/417528845_10224984773746792_6587086704764480413_n.jpg)
+[Read More](https://selar.co/q688i7)
 
 # Data Analytics Coach
 Driven by Excellence
