@@ -29,32 +29,18 @@
       <td>Brooklyn, NY</td>
     </tr>
     <tr>
-      <td>🌍</td>
-      <td>United States</td>
+      <td>🌐</td>
+      <td> [LinkedIn](https://linkedin.com/in/etukanietie) </td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td> [Download my CV](docs/Profile.pdf)</td>
     </tr>
   </tbody>
 </table>
 
 
-# Contact Details
-<table>
-  <tr>
-    <td>📧</td>
-    <td><a href="mailto:farahmartin@email.com">farahmartin@email.com</a></td>
-  </tr>
-  <tr>
-    <td>📞</td>
-    <td>(123) 456-7890</td>
-  </tr>
-  <tr>
-    <td>📍</td>
-    <td>Brooklyn, NY</td>
-  </tr>
-  <tr>
-    <td>🌍</td>
-    <td>United States</td>
-  </tr>
-</table>
+
 
 
 [![Twitter](https://img.shields.io/twitter/follow/etukanietie?style=social)](https://twitter.com/etukanietie)
