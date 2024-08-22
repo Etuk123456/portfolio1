@@ -1,6 +1,4 @@
-![header](assets/1681448265464.jpg)
-
-# Data Scientist
+# Data Analytics Coach
 - Anietie Etuk |
 
 [![Twitter](https://img.shields.io/twitter/follow/etukanietie?style=social)](https://twitter.com/etukanietie)
