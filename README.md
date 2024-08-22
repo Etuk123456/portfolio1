@@ -1,13 +1,18 @@
 ![header](assets/1681448265464.jpg)
 
 # Data Scientist
-- Anietie Etuk
+- Anietie Etuk advanced
   
 [my website](https://www.etukanietie.com)
 
 - Anietie Etuk | Advanced
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
+| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
