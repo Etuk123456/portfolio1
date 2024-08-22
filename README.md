@@ -1,6 +1,8 @@
+[header](assets/1681448265464.jpg)
 # Data Scientist
-
+- Anietie Etuk
 [my website](https://www.etukanietie.com)
+
 - Anietie Etuk | Advanced
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
