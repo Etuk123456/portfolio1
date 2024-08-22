@@ -14,6 +14,10 @@
 | Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
 | Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
 
+- [x] Task 1
+- [ ] Task 2
+- [x] Task 3
+
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
