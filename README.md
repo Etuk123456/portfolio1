@@ -1,3 +1,4 @@
+<!--Section 1: Introduce your self-->
 ## About Me
 
 Hi there! I'm Anietie Etuk, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across engineering, transportation, health, and sales, I help businesses solve challenges and unlock growth.
@@ -6,6 +7,7 @@ As the Managing Director of SkillAhead Solutions LTD, I provide consulting and t
 
 Let’s connect and see how we can make a difference together!
 
+<!--Section 2: List 3-4 key projects-->
 ## My Latest Projects
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 ![image](https://github.com/user-attachments/assets/47e40e9a-2d07-4205-9b50-658469a6c1a8)
@@ -27,6 +29,8 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
+<!--Section 3: This section is optional-->
+## My Latest Projects
 
 # Data Analytics Coach
 Driven by Excellence
