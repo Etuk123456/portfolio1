@@ -1,4 +1,4 @@
-# Data Analytics Coach + Chief Analyst at SkillAhead Academy
+# Data Analytics Coach
 
 <table>
   <thead>
@@ -37,6 +37,33 @@
 
 
 - Anietie Etuk | Advanced
+
+ok
+<h2>My Latest Projects</h2>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://via.placeholder.com/150" alt="Project 1 Thumbnail">
+      <h3>AUTOMATING AWS EC2 SHUTDOWN WITH BASH SCRIPTS</h3>
+      <p>Jan 20, 2020</p>
+      <p>A helpful tutorial I wrote recently on how to set up a Bash script that utilized the AWS CLI to start, log into, then shutdown an EC2 instance.</p>
+    </td>
+    <td>
+      <img src="https://via.placeholder.com/150" alt="Project 2 Thumbnail">
+      <h3>RNNS, LSTMS, AND ATTENTION MECHANISMS FOR LANGUAGE MODELLING (PYTORCH)</h3>
+      <p>Dec 10, 2019</p>
+      <p>Tested the use of WordZVec embeddings with a variety of sequential input deep learning models towards the task of language modelling (predicting the next word in a sequence).</p>
+    </td>
+    <td>
+      <img src="https://via.placeholder.com/150" alt="Project 3 Thumbnail">
+      <h3>DAVISBASE: A CUSTOM DESIGNED DATABASE (PYTHON)</h3>
+      <p>Dec 2, 2019</p>
+      <p>A fully functional, SQL-compliant database implemented from scratch in Python. DavisBase compresses data to a custom-designed bit-level encoding for maximal data compression.</p>
+    </td>
+  </tr>
+</table>
+ok
 
 ## Projects
 ![image](https://github.com/user-attachments/assets/47e40e9a-2d07-4205-9b50-658469a6c1a8)
