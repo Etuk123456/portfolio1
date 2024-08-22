@@ -3,7 +3,7 @@ logo: assets/pic 2.jpg
 
 location: Port Harcourt, Rivers State, Nigeria
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
