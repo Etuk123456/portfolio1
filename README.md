@@ -8,6 +8,37 @@
 ⬇️ [Download my CV](https://github.com/username/project/releases/download/v1.2.3/project.zip)
 
 <table>
+  <thead>
+    <tr>
+      <th colspan="2">
+        <a href="mailto:farahmartin@email.com" style="display: inline-block; background-color: #0366d6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">
+          Contact Me
+        </a>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:farahmartin@email.com">farahmartin@email.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(123) 456-7890</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Brooklyn, NY</td>
+    </tr>
+    <tr>
+      <td>🌍</td>
+      <td>United States</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table>
   <tr>
     <td>📧</td>
     <td><a href="mailto:farahmartin@email.com">farahmartin@email.com</a></td>
