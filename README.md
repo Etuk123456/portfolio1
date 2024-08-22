@@ -39,7 +39,39 @@
   </tbody>
 </table>
 
+### ok
 
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">
+        Contact Details/CV
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:farahmartin@email.com">farahmartin@email.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(123) 456-7890</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Brooklyn, NY</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://linkedin.com/in/etukanietie">LinkedIn</a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
