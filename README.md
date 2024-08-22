@@ -1,5 +1,8 @@
 # Data Scientist
 
+[my website](https://www.etukanietie.com)
+- Anietie Etuk | Advanced
+
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
