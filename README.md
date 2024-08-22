@@ -11,15 +11,15 @@
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:farahmartin@email.com">farahmartin@email.com</a></td>
+      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(123) 456-7890</td>
+      <td>(234) 816-763-7212</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>Brooklyn, NY</td>
+      <td>PH, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
@@ -34,9 +34,7 @@
 
 
 
-[![Twitter](https://img.shields.io/twitter/follow/etukanietie?style=social)](https://twitter.com/etukanietie)
-  
-[my website](https://www.etukanietie.com)
+
 
 - Anietie Etuk | Advanced
 
