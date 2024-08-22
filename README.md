@@ -1,4 +1,5 @@
 # Data Analytics Coach
+Driven by Excellence
 
 <table>
   <thead>
@@ -27,7 +28,7 @@
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
@@ -36,10 +37,7 @@
 
 
 
-- Anietie Etuk | Advanced
-
-ok
-<h2>My Latest Projects</h2>
+## My Latest Projects|
 
 <table>
   <tr>
