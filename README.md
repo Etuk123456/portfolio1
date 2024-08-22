@@ -1,12 +1,12 @@
 ## About Me
 
-Hello! I'm Anietie Etuk, a passionate data analyst, educator, and consultant with a deep commitment to using data-driven insights to solve complex business challenges. With over 10 years of experience, I've had the privilege of working with diverse organizations across engineering, transportation, health, and sales sectors.
+Hi there! I'm Anietie Etuk, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across engineering, transportation, health, and sales, I help businesses solve challenges and unlock growth.
 
-As the Chief Analyst of SkillAhead Solutions LTD, I specialize in providing data analytics consulting services, training professionals, and helping companies unlock the full potential of their data. I'm also the founder of TeenCoders, an initiative dedicated to equipping the next generation with essential coding skills.
+As the Managing Director of SkillAhead Solutions LTD, I provide consulting and training services, and I’m also the founder of TeenCoders, where I inspire the next generation of tech talent. Whether I’m optimizing data for companies or teaching aspiring analysts, I’m all about making data work for you.
 
-My expertise spans across sales performance analysis, procurement analytics, business growth predictions, and customer support data analysis. I'm passionate about mentoring the next wave of data analysts and frequently organize competitions and live classes to engage with and inspire aspiring professionals.
+Let’s connect and see how we can make a difference together!
 
-Whether I'm analyzing data to optimize costs or teaching a classroom full of eager students, my goal is always the same: to harness the power of data to drive impactful results. I’m excited to connect with like-minded professionals and explore opportunities where data can make a difference.
+
 
 
 
