@@ -2,10 +2,12 @@
 ## ABOUT ME
 
 Hi there! I'm Anietie Etuk, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across engineering, transportation, health, and sales, I help businesses solve challenges and unlock growth.
+
 As the Managing Director of SkillAhead Solutions LTD, I provide consulting and training services, and I’m also the founder of TeenCoders, where I inspire the next generation of tech talent. Whether I’m optimizing data for companies or teaching aspiring analysts, I’m all about making data work for you.
+
 Let’s connect and see how we can make a difference together!
 
-.....
+
 <!--Section 2: List 3-4 key projects-->
 ## MY LATEST PROJECTS 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
@@ -32,18 +34,19 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-.....
 <!--Section 3: This section is optional. You can replace this section with a list of your core skills-->
 ## MY COURSES
 **Performance Analysis**
 ![image](assets/418159415_10224996118350400_1790389732999386325_n.jpg)
 Advanced Data Analytics: Mastering the Craft with Portfolio Project using Excel. Master data analytics by solving real-world sales problems using MS Excel 2021, learn core dashboard design and presentation skills and create your portfolio project. This course is designed for beginners and professional data analyst.
-[Read More](https://selar.co/salesdata)
+
+[Get this course](https://selar.co/salesdata)
 
 **Attrition Analysis**
 ![image](assets/417528845_10224984773746792_6587086704764480413_n.jpg)
 In this course, you will learn how to analyze HR and employee data, including demographics, job roles, performance metrics, and workplace satisfaction, to identify the underlying causes and predictors of employee attrition.
-[Read More](https://selar.co/q688i7)
+
+[Get this course](https://selar.co/q688i7)
 
 # Data Analytics Coach
 Driven by Excellence
