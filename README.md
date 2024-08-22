@@ -98,9 +98,14 @@ In this course, you will learn how to analyze HR and employee data, including de
       <td>🌐</td>
       <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
     </tr>
+    <tr>
+      <td>📺</td>
+      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+    </tr>
   </tbody>
 </table>
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+
+   
 
 
 
