@@ -8,7 +8,7 @@ As the Managing Director of SkillAhead Solutions LTD, I provide consulting and t
 Let’s connect and see how we can make a difference together!
 
 <!--Section 2: List 3-4 key projects-->
-<h2 style="color: #0366d6;">My Latest Projects</h2>
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)	
 ## My Latest Projects
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 ![image](https://github.com/user-attachments/assets/47e40e9a-2d07-4205-9b50-658469a6c1a8)
