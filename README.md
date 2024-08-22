@@ -1,15 +1,4 @@
-# Data Analytics Coach
-- Anietie Etuk |
-
-📧 [anietieetuk@gmail.com](mailto:anietieetuk@gmail.com)
-📞 (234) 816-763-7212
-📍 Port Harcourt, Nigeria
-🌐 [LinkedIn](https://linkedin.com/in/etukanietie) 
-⬇️ [Download my CV](docs/Profile.pdf)
-
-
-
-### ok
+# Data Analytics Coach + Chief Analyst at SkillAhead Academy
 
 <table>
   <thead>
