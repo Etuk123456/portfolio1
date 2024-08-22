@@ -9,10 +9,10 @@ Let’s connect and see how we can make a difference together!
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
-**- [x] Data Analytics Consulting**
+**- ✅ Data Analytics Consulting**
 Unlock the full potential of your data with expert consulting services. I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. Whether you need to optimize performance, increase sales, analyze procurement data, forecast trends, or improve customer support, I’m here to guide you every step of the way.
 
-**- [x] Staff Training & Development**
+**- ✅ Staff Training & Development**
 Empower your team with the skills they need to thrive in today’s data-driven world. I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels, I’ll equip your staff with the tools and knowledge to excel in their roles.
 
 
