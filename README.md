@@ -2,6 +2,8 @@
 
 # Data Scientist
 - Anietie Etuk |
+
+[![Twitter](https://img.shields.io/twitter/follow/etukanietie?style=social)](https://twitter.com/etukanietie)
   
 [my website](https://www.etukanietie.com)
 
