@@ -13,7 +13,7 @@ Hi there! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
 **- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels, I’ll equip your staff with the tools and knowledge to excel in their roles.
+I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
 
 
 <!--Section 2: List 3-4 key projects-->
