@@ -2,15 +2,10 @@
 - Anietie Etuk |
 
 📧 [anietieetuk@gmail.com](mailto:anietieetuk@gmail.com)
-
 📞 (234) 816-763-7212
-
 📍 Port Harcourt, Nigeria
-
-⬇️ [Download v1.2.3](https://github.com/username/project/releases/download/v1.2.3/project.zip)
-
-🌐 [Twitter](https://twitter.com/etukanietie) | [LinkedIn](https://linkedin.com/in/etukanietie) | [YouTube](https://youtube.com/learnwithetuk)
-
+🌐 [LinkedIn](https://linkedin.com/in/etukanietie) |
+⬇️ [Download my CV](https://github.com/username/project/releases/download/v1.2.3/project.zip)
 
 <table>
   <tr>
