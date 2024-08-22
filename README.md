@@ -9,7 +9,10 @@ Let’s connect and see how we can make a difference together!
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY LATEST PROJECTS 
+## MY PORTFOLIO 
+
+A glimpse of the projects I've been working on.
+
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 ![image](https://github.com/user-attachments/assets/47e40e9a-2d07-4205-9b50-658469a6c1a8)
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
@@ -36,6 +39,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 <!--Section 3: This section is optional. You can replace this section with a list of your core skills-->
 ## MY COURSES
+You can get these courses today.
 **Performance Analysis**
 ![image](assets/418159415_10224996118350400_1790389732999386325_n.jpg)
 Advanced Data Analytics: Mastering the Craft with Portfolio Project using Excel. Master data analytics by solving real-world sales problems using MS Excel 2021, learn core dashboard design and presentation skills and create your portfolio project. This course is designed for beginners and professional data analyst.
