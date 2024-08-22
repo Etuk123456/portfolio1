@@ -6,8 +6,15 @@ As the Managing Director of SkillAhead Solutions LTD, I provide consulting and t
 
 Let’s connect and see how we can make a difference together!
 
+## My Latest Projects
+![image](https://github.com/user-attachments/assets/47e40e9a-2d07-4205-9b50-658469a6c1a8)
 
+**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+- As head of the team handling the data analysis class for interns in SkillAhead, I was asked to introduce the students to hypothesis in data and statistics. So, we decided to master this process using the titanic dataset.
+The sinking of the Titanic is one of the most infamous shipwrecks in history.
+On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
 
+[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 
 # Data Analytics Coach
@@ -49,41 +56,10 @@ Driven by Excellence
 
 
 
-## My Latest Projects|
 
-<table>
-  <tr>
-    <td>
-      <img src="https://via.placeholder.com/150" alt="Project 1 Thumbnail">
-      <h3>AUTOMATING AWS EC2 SHUTDOWN WITH BASH SCRIPTS</h3>
-      <p>Jan 20, 2020</p>
-      <p>A helpful tutorial I wrote recently on how to set up a Bash script that utilized the AWS CLI to start, log into, then shutdown an EC2 instance.</p>
-    </td>
-    <td>
-      <img src="https://via.placeholder.com/150" alt="Project 2 Thumbnail">
-      <h3>RNNS, LSTMS, AND ATTENTION MECHANISMS FOR LANGUAGE MODELLING (PYTORCH)</h3>
-      <p>Dec 10, 2019</p>
-      <p>Tested the use of WordZVec embeddings with a variety of sequential input deep learning models towards the task of language modelling (predicting the next word in a sequence).</p>
-    </td>
-    <td>
-      <img src="https://via.placeholder.com/150" alt="Project 3 Thumbnail">
-      <h3>DAVISBASE: A CUSTOM DESIGNED DATABASE (PYTHON)</h3>
-      <p>Dec 2, 2019</p>
-      <p>A fully functional, SQL-compliant database implemented from scratch in Python. DavisBase compresses data to a custom-designed bit-level encoding for maximal data compression.</p>
-    </td>
-  </tr>
-</table>
-ok
 
 ## Projects
-![image](https://github.com/user-attachments/assets/47e40e9a-2d07-4205-9b50-658469a6c1a8)
 
-**redictive Modeling and Hypothesis Testing using Titanic Dataset.**
-- As head of the team handling the data analysis class for interns in SkillAhead, I was asked to introduce the students to hypothesis in data and statistics. So, we decided to master this process using the titanic dataset.
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 <a href="https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/" style="display: inline-block; background-color: #0366d6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Read More</a>
 
