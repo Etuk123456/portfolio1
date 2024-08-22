@@ -22,7 +22,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 *A glimpse of some of the projects I've been working on.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](assets/car.jpg)
+![image](assets/car2.jpeg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -39,7 +39,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
-![image](assets/car2.jpeg)
+![image](assets/car.jpg)
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
@@ -53,7 +53,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 - Settings | One-on-One, Group, Communities.								       		
 - Platforms	| Physical or Virtual, Weekday or Weekend. 			        		
 - Courses | Advanced Excel, Statistics, Power BI, SQL, Tableau, Python.
-![image](assets/class2.jpg)
+
 
 <!--Section 3: This section is optional. You can replace this section with a list of your core skills-->
 ## MY COURSES
