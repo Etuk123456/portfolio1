@@ -1,14 +1,14 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi there! I'm Anietie Etuk 😎🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, engineering, transportation, health, and customer service, I help businesses solve challenges and unlock growth.
+Hi there! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
 
-As the Chief Analyst of SkillAhead Solutions LTD, I provide consulting and training services to help companies harness the power of their data. Whether I’m optimizing data for businesses or mentoring aspiring analysts, I’m all about making data work for you.
-
-Let’s connect and see how we can make a difference together!
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
+
+*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+
 **- ✅ Data Analytics Consulting.**
 Unlock the full potential of your data with expert consulting services. I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. Whether you need to optimize performance, increase sales, analyze procurement data, forecast trends, or improve customer support, I’m here to guide you every step of the way.
 
@@ -70,6 +70,8 @@ In this course, you will learn how to analyze HR and employee data, including de
 # Data Analytics Coach
 Driven by Excellence
 
+##CONTACT DETAILS
+*Let’s connect and see how we can make a difference together!*
 <table>
   <thead>
     <tr>
