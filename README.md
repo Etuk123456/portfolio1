@@ -10,10 +10,10 @@ Hi there! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a
 *As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
 **- ✅ Data Analytics Consulting.**
-Unlock the full potential of your data with expert consulting services. I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. Whether you need to optimize performance, increase sales, analyze procurement data, forecast trends, or improve customer support, I’m here to guide you every step of the way.
+I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
 **- ✅ Staff Training & Development.**
-Empower your team with the skills they need to thrive in today’s data-driven world. I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels, I’ll equip your staff with the tools and knowledge to excel in their roles.
+I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels, I’ll equip your staff with the tools and knowledge to excel in their roles.
 
 
 <!--Section 2: List 3-4 key projects-->
