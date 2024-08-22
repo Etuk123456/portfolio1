@@ -10,7 +10,8 @@ Let’s connect and see how we can make a difference together!
 <!--Section 2: List 3-4 key projects-->
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)
  
-## My Latest Projects
+## My Latest Projects |
+
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 ![image](https://github.com/user-attachments/assets/47e40e9a-2d07-4205-9b50-658469a6c1a8)
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
@@ -37,7 +38,8 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 <!--Section 3: This section is optional. You can replace this section with a list of your core skills-->
 ## My Latest Courses
-
+Performance Analysis
+Attrition Analysis
 
 # Data Analytics Coach
 Driven by Excellence
