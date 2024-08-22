@@ -2,14 +2,12 @@
 ## ABOUT ME
 
 Hi there! I'm Anietie Etuk, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across engineering, transportation, health, and sales, I help businesses solve challenges and unlock growth.
-
 As the Managing Director of SkillAhead Solutions LTD, I provide consulting and training services, and I’m also the founder of TeenCoders, where I inspire the next generation of tech talent. Whether I’m optimizing data for companies or teaching aspiring analysts, I’m all about making data work for you.
-
 Let’s connect and see how we can make a difference together!
 
+.....
 <!--Section 2: List 3-4 key projects-->
-## MY LATEST PROJECTS |
-
+## MY LATEST PROJECTS 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 ![image](https://github.com/user-attachments/assets/47e40e9a-2d07-4205-9b50-658469a6c1a8)
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
