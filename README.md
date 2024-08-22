@@ -7,6 +7,14 @@ As the Chief Analyst of SkillAhead Solutions LTD, I provide consulting and train
 
 Let’s connect and see how we can make a difference together!
 
+<!--Mention your top/relevant skills here - core and soft skills-->
+## WHAT I DO
+**- [x] Data Analytics Consulting**
+Unlock the full potential of your data with expert consulting services. I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. Whether you need to optimize performance, increase sales, analyze procurement data, forecast trends, or improve customer support, I’m here to guide you every step of the way.
+
+**- [x] Staff Training & Development**
+Empower your team with the skills they need to thrive in today’s data-driven world. I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels, I’ll equip your staff with the tools and knowledge to excel in their roles.
+
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
@@ -57,14 +65,6 @@ In this course, you will learn how to analyze HR and employee data, including de
 
 [Get this course](https://selar.co/q688i7)
 
-## WORK EXPERIENCE
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 
 # Data Analytics Coach
@@ -114,9 +114,7 @@ Driven by Excellence
 | Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
 | Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
 
-- [x] Task 1
-- [ ] Task 2
-- [x] Task 3
+
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
