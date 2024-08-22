@@ -22,14 +22,14 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 *A glimpse of some of the projects I've been working on.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](https://github.com/user-attachments/assets/47e40e9a-2d07-4205-9b50-658469a6c1a8)
+![image](assets/car.jpg)
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](https://github.com/user-attachments/assets/47e40e9a-2d07-4205-9b50-658469a6c1a8)
+![image](assets/agro.jpg)
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
@@ -51,13 +51,13 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 
 ## MY CLASSES
-
+![image](assets/class.jpg)
 *Call my admin for details about the classes: 08034730987.*
 
 - Settings | One-on-One, Group, Communities.								       		
 - Platforms	| Physical or Virtual, Weekday or Weekend. 			        		
 - Courses | Advanced Excel, Statistics, Power BI, SQL, Tableau, Python.
-
+![image](assets/class2.jpg)
 
 <!--Section 3: This section is optional. You can replace this section with a list of your core skills-->
 ## MY COURSES
