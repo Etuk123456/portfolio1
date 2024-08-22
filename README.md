@@ -51,9 +51,12 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 
 ## MY CLASSES
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+
+*Call my admin for details about the classes: 08034730987.*
+
+- Settings | One-on-One, Group, Communities.								       		
+- Platforms	| Physical or Virtual, Weekday or Weekend. 			        		
+- Courses | Advanced Excel, Statistics, Power BI, SQL, Tableau, Python.
 
 
 <!--Section 3: This section is optional. You can replace this section with a list of your core skills-->
