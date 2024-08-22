@@ -4,7 +4,7 @@
 📧 [anietieetuk@gmail.com](mailto:anietieetuk@gmail.com)
 📞 (234) 816-763-7212
 📍 Port Harcourt, Nigeria
-🌐 [LinkedIn](https://linkedin.com/in/etukanietie) |
+🌐 [LinkedIn](https://linkedin.com/in/etukanietie) 
 ⬇️ [Download my CV](https://github.com/username/project/releases/download/v1.2.3/project.zip)
 
 <table>
