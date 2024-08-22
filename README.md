@@ -1,10 +1,36 @@
 # Data Analytics Coach
 - Anietie Etuk |
+
 📧 [anietieetuk@gmail.com](mailto:anietieetuk@gmail.com)
+
 📞 (234) 816-763-7212
+
 📍 Port Harcourt, Nigeria
+
 ⬇️ [Download v1.2.3](https://github.com/username/project/releases/download/v1.2.3/project.zip)
+
 🌐 [Twitter](https://twitter.com/etukanietie) | [LinkedIn](https://linkedin.com/in/etukanietie) | [YouTube](https://youtube.com/learnwithetuk)
+
+
+<table>
+  <tr>
+    <td>📧</td>
+    <td><a href="mailto:farahmartin@email.com">farahmartin@email.com</a></td>
+  </tr>
+  <tr>
+    <td>📞</td>
+    <td>(123) 456-7890</td>
+  </tr>
+  <tr>
+    <td>📍</td>
+    <td>Brooklyn, NY</td>
+  </tr>
+  <tr>
+    <td>🌍</td>
+    <td>United States</td>
+  </tr>
+</table>
+
 
 [![Twitter](https://img.shields.io/twitter/follow/etukanietie?style=social)](https://twitter.com/etukanietie)
   
