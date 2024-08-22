@@ -7,37 +7,7 @@
 🌐 [LinkedIn](https://linkedin.com/in/etukanietie) 
 ⬇️ [Download my CV](docs/Profile.pdf)
 
-<table>
-  <thead>
-    <tr>
-      <th colspan="2">
-        Contact Details
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>📧</td>
-      <td><a href="mailto:farahmartin@email.com">farahmartin@email.com</a></td>
-    </tr>
-    <tr>
-      <td>📞</td>
-      <td>(123) 456-7890</td>
-    </tr>
-    <tr>
-      <td>📍</td>
-      <td>Brooklyn, NY</td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td> [LinkedIn](https://linkedin.com/in/etukanietie) </td>
-    </tr>
-    <tr>
-      <td>⬇️</td>
-      <td> [Download my CV](docs/Profile.pdf)</td>
-    </tr>
-  </tbody>
-</table>
+
 
 ### ok
 
