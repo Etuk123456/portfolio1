@@ -72,3 +72,21 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 - [Data Science Blog](https://medium.com/@shawhin)
 ![1681448265464](https://github.com/user-attachments/assets/fefb8432-f352-47fb-8cb9-f473fe287277)
+
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: 08067778800 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/etuk123456)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/etukanietie/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/etukanietie/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.etukanietie.com)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=etuk123456&show_icons=true)  
+
+
