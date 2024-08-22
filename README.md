@@ -66,20 +66,10 @@ In this course, you will learn how to analyze HR and employee data, including de
 [Get this course](https://selar.co/q688i7)
 
 
+## CONTACT DETAILS
 
-# Data Analytics Coach
-Driven by Excellence
-
-##CONTACT DETAILS
 *Let’s connect and see how we can make a difference together!*
 <table>
-  <thead>
-    <tr>
-      <th colspan="2">
-        Contact Details/CV
-      </th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td>📧</td>
