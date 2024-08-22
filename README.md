@@ -5,15 +5,13 @@
 📞 (234) 816-763-7212
 📍 Port Harcourt, Nigeria
 🌐 [LinkedIn](https://linkedin.com/in/etukanietie) 
-⬇️ [Download my CV](https://github.com/username/project/releases/download/v1.2.3/project.zip)
+⬇️ [Download my CV](docs/Profile.pdf)
 
 <table>
   <thead>
     <tr>
       <th colspan="2">
-        <a href="mailto:farahmartin@email.com" style="display: inline-block; background-color: #0366d6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">
-          Contact Me
-        </a>
+        Contact Details
       </th>
     </tr>
   </thead>
@@ -38,6 +36,7 @@
 </table>
 
 
+# Contact Details
 <table>
   <tr>
     <td>📧</td>
